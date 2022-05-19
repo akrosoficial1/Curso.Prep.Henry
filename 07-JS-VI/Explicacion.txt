@@ -1,0 +1,7 @@
+---Funciones CallBack---
+
+Son funciones que se llaman a través de otra funcion.
+
+Así como existen sentencias if-else anidadas (una dentro de otro) o ciclos for anindados; también exiten funciones que reciben por parámetros otras funciones.
+
+También se pueden declarar las funciones dentro de los argumentos que se le pasan a la función principal. Se le conoce como declaración de variables implícitas porque solo viven mientras se ejecute la función principal.

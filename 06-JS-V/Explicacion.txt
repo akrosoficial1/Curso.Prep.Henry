@@ -1,0 +1,9 @@
+--- ¿Qué es el protype? ---
+
+El protype es la forma en la que se accede a la clase padre de la instancia del objeto. A través de este método se pueden declarar métodos nuevos para la clase que se creó incialmente.
+
+--- Constructor ---
+
+Todas las clases, al momento de declararlas; deben tener un Constructor (contructor). Este es el método principal que se llama al momento de instanciar un nuevo objeto.
+
+¿Recuerdas el ejemplo para crear un perfil en Facebook? Bueno, su constructor recibía por parámetros el nombre, apellido... y a partir de esos datos, creaba un nuevo objeto.

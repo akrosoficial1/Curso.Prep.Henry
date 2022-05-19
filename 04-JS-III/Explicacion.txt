@@ -1,0 +1,11 @@
+--- ¿Qué es un Array? ---
+
+Un array (o arreglo, en español), es un conjunto de datos almacenados en una variable.
+
+Estos datos pueden ser cadena de textos (Strings), número enteros (Integer), u otro tipo de dato no primitivo.
+
+Estos datos se organizan a través de un índice, que inicia en cero ("0").
+
+--- ¿Cuándo es necesario crear un array? ---
+
+Por ejemplo, cuando se obtienen unos datos que tienen relación entre sí.

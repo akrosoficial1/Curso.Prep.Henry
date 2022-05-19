@@ -1,22 +1,22 @@
-    For
+--- For ---
 
 Un bucle for, es una instrucción de código que se ejecuta constantemente
 hastas que la condición se deja de cumplir. Es decir, ya no devuelve "true"
 (verdadero).
 
-    Este tipo de bucles, están construidos por una variable con un valor,
+Este tipo de bucles, están construidos por una variable con un valor,
 la condicion que se evalúa y el operador que la incrementa.
 
-    && || !
+--- && || ! ---
 
 Son operadores lógicos. Es decir, evalúan que la condición se cumple
 y de acuerdo a su resultado, se ejecuta una sentencia de código.
 
-- && es igual a (Y) en lógica. Si todos los criterios son verdaderos, esto
+--- && es igual a (Y) en lógica. Si todos los criterios son verdaderos, esto
 retorna verdadero y ejecuta el bloque de código
 
-- || es igual a (O) en lóica. Es suficiente con que alguno de los criterios
+--- || es igual a (O) en lóica. Es suficiente con que alguno de los criterios
 sean verdadero para que se ejecute el bloque de codigo
 
-- ! es igual a (NOT). Retorna verdadero si la condición que se 
+--- ! es igual a (NOT). Retorna verdadero si la condición que se 
 evalúa, es falsa. Es el antónimo de la sentencia inicial.

@@ -1,0 +1,30 @@
+---¿Qué es un Objeto?---
+
+Un objeto, básicamente es la creación de un tipo de dato a partir de unos parámetros definidos previamente
+Podemos declarar objetos en el instante en el que queremos crear, por ejemplo, el perfil de facebook de una persona
+
+¿Qué se necesita normalmente para crear un perfil de facebook? 
+
+Nombre, Apellido, Edad, Email, Contraseña.
+
+Ahora que sabemos que todos los perfiles tienen ese mismo patrón al momento de crearlo, es mejor si hacemos esto como una regla para podernos registrar 
+
+¿Cómo lo hacemos? 
+
+Es allí donde entran en vigencia las clases. Básicamente se crea una clase (con el nombre que queramos), donde reciba por parametros (tal como una función), todos estos datos en un orden específico y así nos aseguramos que todos se creen con un mismo patrón.
+
+--- Propiedades: también conocidos como atributos, son todos aquellos valores que posee una clase. En el ejemplo anterior; nombre, apellido... Esta son propiedades de la clase que estamos creando. 
+
+--- Métodos: son  funnciones que se declaran dentro de una clase. Estas realizan una tarea en específico y son muy útiles al momento de programar.
+	   
+--- Bucle for...in no es otra cosa que un bucle con una escritura un poco más simple. Recorre todo un array y detiene su ejecución cuando llega al último índice.
+ 
+--- Notación de puntos vs notación de corchetes ---
+
+A través del JSON podemos almacenar datos con algo que se conoce como key-value.
+
+El key, es el nombre del valor (como si de una variable se tratase), mientras que value es el valor.
+
+Podemos acceder a estos datos colocando el nombre de la variable donde hemos declarado esta infomación seguido de "[]". <--- Dentro de estos corchetes colocamos (entre comilla) el key y nos debe devolver el value. Esto es lo que se conoce como notación de corchete.
+
+Del mismo modo, podemos acceder a la información colocando el nombre de la variable seguido de un punto (.) y el key. ¿Qué nos devuelve? El value que almacena. <--- Notación de punto, ¡Claro que sí!
